@@ -22,12 +22,12 @@ To link to the compiled JavaScript file from the jsDelivr CDN, use the following
 ```
 
 ## Usage
-To use Calendar Widget, add a container element to your HTML file with the ID `calendar-widget_jay-z.IT` a `data-id` attribute that reflects the id of the widget config to show and an optional minimum height to allow better rendering experience:
+To use Calendar Widget, add a container element to your HTML file with the a `data-affiliation`-attribute of `calendar-widget.online-booking.de` a `data-id` attribute that reflects the id of the widget config to show and an optional minimum height to allow better rendering experience:
 
 ```html
 <div
-    id="calendar-widget_jay-z.IT"
-    data-id="clfrfb670000pl708vpyku3xo"
+    data-affiliation="calendar-widget.online-booking.de"
+    data-id="clcy0rduo000694n1hvlnp8pa"
     style="min-height: 32rem"
 ></div>
 ```
